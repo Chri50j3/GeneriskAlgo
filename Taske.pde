@@ -1,3 +1,4 @@
+// Klassen Taske indeholder en ArrayListe med de genstande der er i tasken, og har to metoder, der kan beregne taksens samlede pris og vægt.
 
 class Taske{
   ArrayList<Genstand>liste;

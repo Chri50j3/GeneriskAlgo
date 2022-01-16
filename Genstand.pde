@@ -1,3 +1,4 @@
+// En genstand har et navn, en vægt og en pris
 
 class Genstand{
   String navn;

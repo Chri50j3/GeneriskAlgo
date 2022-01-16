@@ -1,3 +1,4 @@
+// Her kan man bare tilføje genstande hvis man vil. Det er (Navn, Vægt, Pris)
 
 void lavAlt(){
   AlleTing.add(new Genstand("Kort", 90, 150));
